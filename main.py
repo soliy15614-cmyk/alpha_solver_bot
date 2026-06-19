@@ -110,11 +110,11 @@ def free_menu():
         choice = input("  Select option [1-2]: ").strip()
         
         if choice == "1":
-            if os.path.exists("bot2.py"):
-                launch_bot("bot2.py")
+            if os.path.exists("bot.py"):
+                launch_bot("bot.py")
             else:
                 bot.show_banner()
-                bot.error("bot2.py not found in current directory!")
+                bot.error("bot.py not found in current directory!")
                 time.sleep(2)
         
         elif choice == "2":
