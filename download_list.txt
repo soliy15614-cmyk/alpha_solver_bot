@@ -1,4 +1,4 @@
 main.py
 tes.py
-bot2.py
+bot.py
 psycho_ui.py
