@@ -2,4 +2,4 @@ main.py
 tes.py
 bot.py
 psycho_ui.py
-coin.py
+coin.pyninin.py
