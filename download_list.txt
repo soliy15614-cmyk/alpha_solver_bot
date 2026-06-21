@@ -3,3 +3,4 @@ tes.py
 bot.py
 psycho_ui.py
 coin.py
+altcryp.py
