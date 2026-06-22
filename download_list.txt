@@ -3,5 +3,5 @@ tes.py
 bot.py
 psycho_ui.py
 coin.py
-altcaltcryp
+altcryp.py
 mix.py
