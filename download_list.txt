@@ -5,3 +5,4 @@ psycho_ui.py
 coin.py
 altcryp.py
 mix.py
+cc.py
