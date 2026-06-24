@@ -6,3 +6,4 @@ coin.py
 altcryp.py
 mix.py
 cc.py
+tf.py
